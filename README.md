@@ -2,7 +2,6 @@
 
 #The source code is here
 
------------------------------------------------------------------------------------------------------------
 
 <!DOCTYPE html>
 <html lang="en">
@@ -38,64 +37,3 @@
 </body>
 </html>
 
--------------------------------------------------------------------------------------------------------------
-
-#Then This is the css code
-
-
-.table1 {
-    width: 1440px;
-    table-layout: collapse;
-}
-.td1 {
-    background-color: hsl(31, 77%, 52%);
-    border: none;
-    color: white;
-    padding: 50px;
-    width: 100px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 15px;
-    margin: 4px 2px;
-}
-
-.td2 {
-    background-color: hsl(184, 100%, 22%);
-    border: none;
-    color: white;
-    padding: 50px;
-    width: 100px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 15px;
-    margin: 4px 2px;
-}
-
-.td3 {
-    background-color: hsl(179, 100%, 13%);
-    border: none;
-    color: white;
-    padding: 50px;
-    width: 100px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 15px;
-    margin: 4px 2px;
-}
-
-.button1 {
-        border-radius: 12px;
-        height: 20px;
-        color: white;
-}
-
-
-
-------------------------------------------------------------------------------------------------------------------------------------
-
-#The displayed output is thus:
-
-https://codepen.io/hamidmosakuahmad/pen/BaYgaym
