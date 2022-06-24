@@ -1,0 +1,29 @@
+header {
+  background-color: #f7f2b4;
+  height: 90px;
+}
+main { 
+    background-color: #bdf7f1;
+    height: 600px; 
+}
+footer {
+    background-color: #ceccf3;
+    height: 270px;
+}
+.logo1 {
+    padding: 20px;
+    padding-top: 30px;
+    padding: auto;
+}
+.header-logo {
+  font-size :36px;
+  float:left;
+  padding:20px 40px;
+}
+li {
+    color: rgb(0, 255, 157);
+    float: right;
+}
+.selected {
+    color: rgba(106, 192, 48, 0.651);
+}
